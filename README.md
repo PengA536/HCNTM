@@ -180,15 +180,3 @@ existing scaffolding in this repository should help you get started.
 This project is provided for educational purposes and is released under the
 MIT License. See `LICENSE` for details.
 
-## Acknowledgements
-
-The design of this repository was inspired by the research paper:
-
-> **Hierarchical Contrastive Neural Topic Modeling: A Scalable Framework for
-> Temporal Semantics**
->
-> ... by [your authors], which introduces a novel method for dynamic topic
-> modeling using optimal transport and contrastive learning.
-
-We thank the authors for their contributions to the field and hope that this
-baseline implementation helps others explore and extend their ideas.
