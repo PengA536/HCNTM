@@ -1,0 +1,2 @@
+n_slices,n_topics,max_features,avg_coherence,avg_diversity,evolution_smoothness,avg_alignment,avg_perplexity
+3,5,100,0.006607056419669653,0.9533333333333333,0.7754797645645273,0.8789470190440988,106.25139201307023
